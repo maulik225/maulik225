@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maulik Sompua</h1>
+<h1 align="center">Hi 👋, I'm Maulik Sompura</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maulik225" alt="maulik225" /></a> </p>
